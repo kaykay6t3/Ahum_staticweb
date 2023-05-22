@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4975322.css",
+    "main.js": "/static/js/main.fbc4fd86.js",
+    "static/media/main.jpeg": "/static/media/main.1486d4061cd0252b9a21.jpeg",
+    "static/media/upcoming.jpg": "/static/media/upcoming.92a72e2f015c8559491d.jpg",
+    "static/media/blog image.png": "/static/media/blog image.a77052cd1fcf9053523d.png",
+    "static/media/Ahum Final.jpeg": "/static/media/Ahum Final.841ff2d4295646009b36.jpeg",
+    "static/media/blog img 2.png": "/static/media/blog img 2.94601ec7f183f4dcde20.png",
+    "static/media/pick.png": "/static/media/pick.319be0e7a110cfc3aaed.png",
+    "index.html": "/index.html",
+    "main.e4975322.css.map": "/static/css/main.e4975322.css.map",
+    "main.fbc4fd86.js.map": "/static/js/main.fbc4fd86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4975322.css",
+    "static/js/main.fbc4fd86.js"
+  ]
+}
